@@ -1,0 +1,6 @@
+Nama: Bayu Mido Saputra
+NRP: 33132501002
+
+1. Working tree  : folder tempat kita mengedit file secara langsung; perubahan belum tercatat.
+2. Staging area  : tempat menyiapkan perubahan yang akan di-commit (setelah git add).
+3. Repository    : database Git tempat semua commit tersimpan permanen (setelah git commit).
